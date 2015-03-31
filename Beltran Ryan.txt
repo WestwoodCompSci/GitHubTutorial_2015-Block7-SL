@@ -1,0 +1,5 @@
+Some questions on ZFC Set Theory:
+
+If a barber cuts the hair of everyone who does not cut their own hair, does he cut his own hair?
+
+In other words, does a set of all sets which do not contain themselves contain itself?
