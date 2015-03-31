@@ -1,4 +1,8 @@
 What is love?
+<<<<<<< HEAD
 
 Baby don't hurt me,
 Don't hurt me, no more.
+=======
+baby don't hurt me
+>>>>>>> origin/master

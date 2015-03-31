@@ -1,5 +1,5 @@
-GitHub Tutorial
-===============
+[GitHub Tutorial][19]
+=====================
 As an introduction to the *GitHub* ecosystem, this minimalistic repository has been created as a common, shared workspace that students can use to begin exploring and experimenting with the *GitHub* platform.
 
 Follow the [instructions](#instructions) below to be granted access to "pull from" and "push to" this repository.
@@ -197,3 +197,4 @@ NOTE: In cases where a _merge conflict_ occurs, the pull request cannot be autom
 [16]: https://github.com/jedyobidan/MoveX
 [17]: https://github.com/chudooder/FEMultiplayer
 [18]: https://github.com/kitchWWW/HotSounds
+[19]: https://github.com/WestwoodCompSci/GitHubTutorial_2015-Block7-SL/wiki
