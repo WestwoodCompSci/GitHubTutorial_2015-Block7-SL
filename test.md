@@ -1,6 +1,7 @@
 Test
 ====
 
+<<<<<<< HEAD
 Hallo! Ich bin nicht einen Deutschlander.
 
 Nein, ich bin einen Deutschlander. Hallo wie gehts dir?
@@ -8,3 +9,6 @@ Nein, ich bin einen Deutschlander. Hallo wie gehts dir?
 ― Adolf Hitler
 :c
 Menschen sind gestorben!
+=======
+Hallo! Ich bin nicht einen Deutschlander.
+>>>>>>> origin/master
