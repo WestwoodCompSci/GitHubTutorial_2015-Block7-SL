@@ -175,7 +175,7 @@ NOTE: In cases where a _merge conflict_ occurs, the pull request cannot be autom
 * [HotSounds][17]: A drum kit for your computer (Brian Ellis)
 
 --
-######_Last Edited 3/14/2015_
+######_Last unedited 3/31/2015_
 
 
 
